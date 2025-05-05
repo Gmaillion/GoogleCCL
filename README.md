@@ -147,6 +147,10 @@ You must clean up unused Drive/Cloud Shell files before proceeding.
 
 ---
 
+![{2537720F-DF9D-4A82-A5F9-530C1C434297}](https://github.com/user-attachments/assets/50a48a15-643f-4a6f-9804-3a2800d9e666)
+
+---
+
 ## 📄 License (MIT)
 
 ```
