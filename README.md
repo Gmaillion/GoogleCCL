@@ -48,10 +48,10 @@ Automated script to create a **persistent Ubuntu virtual machine** with **remote
 ### 1. **Launch Google Cloud Shell**
 Go to: [https://shell.cloud.google.com](https://shell.cloud.google.com)
 
-### 2. **Clone this repository**
+### 2. **Repository CLONE**
 ```bash
-git clone https://github.com/yourusername/ubuntu-cloudshell-vm.git
-cd ubuntu-cloudshell-vm
+git clone https://github.com/Gmaillion/UbuntuShell.git
+cd UbuntuShell
 ````
 
 ### 3. **Run the setup script**
@@ -181,13 +181,10 @@ THE SOFTWARE.
 
 ## 🙌 Support
 
-Feel free to submit issues or pull requests to improve the script. This project is maintained for the community by **GrandSiLes**.
+Feel free to submit issues or pull requests to improve the script. This project is maintained for the community by **GrandSiLes**. 
 
 ---
 
 ```
 
----
-
-Let me know if you'd like a `.gitignore`, `LICENSE` file, or the GitHub repository structure generated next!
-```
+---\
