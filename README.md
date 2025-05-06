@@ -57,8 +57,8 @@ cd UbuntuShell
 ### 3. **Run the setup script**
 
 ```bash
-chmod +x setup-vm.sh
-./setup-vm.sh
+chmod +x ubuntu_vm_installation.sh
+./ubuntu_vm_installation.sh
 ```
 
 ---
@@ -119,7 +119,7 @@ You must clean up unused Drive/Cloud Shell files before proceeding.
 * **Start VM manually** (after reboot/disconnect):
 
   ```bash
-  ./start-vm.sh
+  ./ubuntu_vm_installation.sh
   ```
 
 * **Stop VM**:
